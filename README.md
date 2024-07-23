@@ -4,10 +4,6 @@ Utils to use in my projects.
 ## Utils Index
 
 - [`db.ts`](#dbts)
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ### `db.ts`
 
